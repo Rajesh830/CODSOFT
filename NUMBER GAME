@@ -75,3 +75,68 @@ else
     }
 }
 
+
+OUTPUT:
+java -cp /tmp/owadyD6fYY GuessTheNumber
+Welcome to Guess the Number Game!
+I have selected a number between 1 and 100.
+You have 10 attempts to guess it.
+Enter your guess: 98
+Too high! Try again.
+You have 9 attempts left.
+Enter your guess: 45
+Too high! Try again.
+You have 8 attempts left.
+Enter your guess: 6
+Too low! Try again.
+You have 7 attempts left.
+Enter your guess: 3
+Too low! Try again.
+You have 6 attempts left.
+Enter your guess: 25
+Too low! Try again.You have 5 attempts left.
+Enter your guess: 50
+Too high! Try again.You have 4 attempts left.
+Enter your guess: 99
+Too high! Try again.
+You have 3 attempts left.
+Enter your guess: 64
+Too high! Try again.
+You have 2 attempts left.
+Enter your guess: 49
+Too high! Try again.
+You have 1 attempts left.
+Enter your guess: 80
+Too high! Try again.
+Sorry, you've run out of attempts. The correct number was 39.
+Your current score: 0Do you want to play again? (yes/no): yes
+Enter your guess: 58
+Too high! Try again.You have 9 attempts left.
+Enter your guess: 96
+Too high! Try again.You have 8 attempts left.
+Enter your guess: 74
+Too high! Try again.
+You have 7 attempts left.
+Enter your guess: 5
+Too low! Try again.You have 6 attempts left.
+Enter your guess: 9
+Too low! Try again.You have 5 attempts left.
+Enter your guess: 10
+Too low! Try again.
+You have 4 attempts left.
+Enter your guess: 94
+Too high! Try again.
+You have 3 attempts left.
+Enter your guess: 82
+Too high! Try again.
+You have 2 attempts left.
+Enter your guess: 73
+Too high! Try again.
+You have 1 attempts left.
+Enter your guess: 61
+Too high! Try again.
+Sorry, you've run out of attempts. The correct number was 53.
+Your current score: 0
+Do you want to play again? (yes/no): 67
+Thank you for playing Guess the Number Game!
+
